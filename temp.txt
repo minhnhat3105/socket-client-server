@@ -1,0 +1,12 @@
+se333333, Khanh Ga, 777, MALE, 888
+
+se140165, Ta Minh Nhat, 121, MALE, 999
+
+se123456, toto, 999, FEMALE, 888
+
+se222222, Daddy, 555, MALE, 666
+
+se111111, Gwi, 222, MALE, 333
+se444444, Natto, 777, MALE, 326
+se876563, Be Cun, 987, FEMALE, 345
+se999999, Cun, 325, FEMALE, 3068
